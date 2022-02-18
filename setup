@@ -1,0 +1,14 @@
+welcome to the github for help 
+
+config.json
+
+{
+    "prefix": "!", -- put ur prefix for the bot action
+    "owner": "YOUR DISCORD ID HERE", -- put your own discord id
+    "signup_color": "#00ff4a", -- color of the signup
+    "ticket_title": "Ticket support", - ticket name
+    "answer_title": "Ticket", -- title for ticke
+    "answer_color": "#00ff4a", -- answer color
+    "answer_description": "Welcomme to Support" - shows when the user opens the ticket
+    
+}
